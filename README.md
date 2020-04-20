@@ -1,3 +1,8 @@
+## Test it out
+
+```yarn```
+```yarn start```
+
 ## Instructions
 
 We'd like for you to create simple SPA that will allow users to see a list of their studies and navigate to them to see a detailed view.
