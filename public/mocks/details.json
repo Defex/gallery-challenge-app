@@ -1,0 +1,155 @@
+{
+  "data": [
+    {
+      "resourceId": "5e55994fbbfdf574eca6f1ff",
+      "statusKey": "finished",
+      "name": "Ditmas Avenue",
+      "original": "https://picsum.photos/1152",
+      "thumbnail": "https://picsum.photos/1152"
+    },
+    {
+      "resourceId": "5e55994f26271ce801f6ba4b",
+      "statusKey": "draft",
+      "name": "Schroeders Avenue",
+      "original": "https://picsum.photos/917",
+      "thumbnail": "https://picsum.photos/917"
+    },
+    {
+      "resourceId": "5e55994fdc922decb2e5eef1",
+      "statusKey": "draft",
+      "name": "Irving Place",
+      "original": "https://picsum.photos/989",
+      "thumbnail": "https://picsum.photos/989"
+    },
+    {
+      "resourceId": "5e55994f0a56f5244356f8c9",
+      "statusKey": "draft",
+      "name": "Prince Street",
+      "original": "https://picsum.photos/868",
+      "thumbnail": "https://picsum.photos/868"
+    },
+    {
+      "resourceId": "5e55994f8f2a4be58bec3a06",
+      "statusKey": "finished",
+      "name": "Tillary Street",
+      "original": "https://picsum.photos/1153",
+      "thumbnail": "https://picsum.photos/1153"
+    },
+    {
+      "resourceId": "5e55994fff703e99cf4b7c41",
+      "statusKey": "pending",
+      "name": "Hamilton Avenue",
+      "original": "https://picsum.photos/1147",
+      "thumbnail": "https://picsum.photos/1147"
+    },
+    {
+      "resourceId": "5e55994f06ae5006b027d91a",
+      "statusKey": "finished",
+      "name": "Linden Boulevard",
+      "original": "https://picsum.photos/1023",
+      "thumbnail": "https://picsum.photos/1023"
+    },
+    {
+      "resourceId": "5e55994fdbec4ca7ac203b4d",
+      "statusKey": "draft",
+      "name": "Hampton Avenue",
+      "original": "https://picsum.photos/1162",
+      "thumbnail": "https://picsum.photos/1162"
+    },
+    {
+      "resourceId": "5e55994f2a76e94e93f1be6c",
+      "statusKey": "pending",
+      "name": "Cheever Place",
+      "original": "https://picsum.photos/854",
+      "thumbnail": "https://picsum.photos/854"
+    },
+    {
+      "resourceId": "5e55994f81d30d80399b5e22",
+      "statusKey": "draft",
+      "name": "Nevins Street",
+      "original": "https://picsum.photos/801",
+      "thumbnail": "https://picsum.photos/801"
+    },
+    {
+      "resourceId": "5e55994f2ab853016b4b53f6",
+      "statusKey": "finished",
+      "name": "Tabor Court",
+      "original": "https://picsum.photos/949",
+      "thumbnail": "https://picsum.photos/949"
+    },
+    {
+      "resourceId": "5e55994fdb9012faffd3d6e0",
+      "statusKey": "finished",
+      "name": "Stoddard Place",
+      "original": "https://picsum.photos/996",
+      "thumbnail": "https://picsum.photos/996"
+    },
+    {
+      "resourceId": "5e55994fab6b94f019224e91",
+      "statusKey": "draft",
+      "name": "Harway Avenue",
+      "original": "https://picsum.photos/1122",
+      "thumbnail": "https://picsum.photos/1122"
+    },
+    {
+      "resourceId": "5e55994fd20503173af4ef45",
+      "statusKey": "pending",
+      "name": "Rogers Avenue",
+      "original": "https://picsum.photos/1124",
+      "thumbnail": "https://picsum.photos/1124"
+    },
+    {
+      "resourceId": "5e55994f8b62378f42182231",
+      "statusKey": "finished",
+      "name": "Oakland Place",
+      "original": "https://picsum.photos/937",
+      "thumbnail": "https://picsum.photos/937"
+    },
+    {
+      "resourceId": "5e55994fad1ed253de67efd3",
+      "statusKey": "draft",
+      "name": "Agate Court",
+      "original": "https://picsum.photos/1007",
+      "thumbnail": "https://picsum.photos/1007"
+    },
+    {
+      "resourceId": "5e55994fa9582c88fdd70458",
+      "statusKey": "finished",
+      "name": "Lester Court",
+      "original": "https://picsum.photos/1007",
+      "thumbnail": "https://picsum.photos/1007"
+    },
+    {
+      "resourceId": "5e55994f160172cc3a19934d",
+      "statusKey": "draft",
+      "name": "Waldane Court",
+      "original": "https://picsum.photos/1135",
+      "thumbnail": "https://picsum.photos/1135"
+    },
+    {
+      "resourceId": "5e55994f7c8d752784b6d738",
+      "statusKey": "finished",
+      "name": "Doscher Street",
+      "original": "https://picsum.photos/1085",
+      "thumbnail": "https://picsum.photos/1085"
+    },
+    {
+      "resourceId": "5e55994f65a92d79938568d5",
+      "statusKey": "pending",
+      "name": "Drew Street",
+      "original": "https://picsum.photos/959",
+      "thumbnail": "https://picsum.photos/959"
+    }
+  ],
+  "meta": {
+    "study": {
+      "name": "Study",
+      "id": "5YyOD81QaLkPoxJvenZA",
+      "analysisType": "WEB",
+      "webPageType": "GENERAL",
+      "createdAt": "2020-02-10T19:22:08+00:00",
+      "updatedAt": "2020-02-10T19:23:42+00:00",
+      "statusKey": "finished"
+    }
+  }
+}
